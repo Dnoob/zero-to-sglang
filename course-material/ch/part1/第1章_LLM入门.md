@@ -63,7 +63,7 @@ transformer模型的起源可以追溯到2017年，当时由Google研究团队�
 <p><em>图 1. Transformer 的整体架构</em></p>
 </div>
 
-上述图中是Transformer 的 Block 结构，右边是**解码器Block**和**编码器Block，解码器和编码器堆叠*N就是transformer结构**
+上述图中是Transformer 的 Block 结构，左边是**编码器Block**，右边是**解码器Block**，解码器和编码器堆叠*N就是transformer结构
 
 ### 3.1.1 位置编码(Positional Encoding)--正余弦位置编码
 
